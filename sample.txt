@@ -1,1 +1,3 @@
+
 This text file will help me practice using github. This practice is actually fun! Am I really creating a merge conflict?
+
